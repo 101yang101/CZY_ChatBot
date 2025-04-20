@@ -111,4 +111,4 @@ LangChain框架有很多优点，如丰富的工具和组件、易于集成等�
 
 我认为的LangChain学习路线：先看[B站上的视频教程](https://www.bilibili.com/video/BV1E94y187YX/?share_source=copy_web&vd_source=c14e27255774df8dc181dbb7ab0e9a78)理解LangChain的基本思想和组件用法（不用太过纠结视频中的代码，因为由于LangChain版本的不同，视频中的代码在实际运行中可能也会发生错误）具体开发时参考官方文档即可。
 
-LangChain对OpenAI API适配性最好，其他模型（如通义）等适配不太好，使用起来会有各种奇奇怪怪的Bug，建议开发时直接使用OpenAI API。
+LangChain对OpenAI API适配性最好，其他模型（如通义）等适配不太好，使用起来会有各种奇奇怪怪的Bug，建议入门时直接使用OpenAI API。
